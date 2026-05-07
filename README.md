@@ -40,7 +40,9 @@ We ran three experiments to find the best hyperparameter configuration. The key 
 ![Training curves](assets/training_curves_v2.png)
 
 ### All Three Runs Compared
-
+$\color{red}{▬}$ v1 (926 ep)
+$\space\color{green}{▬}$ v2 — best (196 ep)
+$\space\color{gray}{▬}$ v3 (1000 ep, no target)
 ![Run comparison](assets/run_comparison.png)
 
 ### DQN vs Random Agent
