@@ -157,7 +157,7 @@ Training runs for up to 1000 episodes and saves the best checkpoint to `checkpoi
 | [amira-iraqi](https://github.com/amira-iraqi)             | `replay_buffer.py` | Experience replay buffer |
 | [BassamAbdelghafar](https://github.com/BassamAbdelghafar) | `agent.py` | DQN agent, Double DQN, soft update |
 | [0-Ahmed-Tamer-0](https://github.com/0-Ahmed-Tamer-0)     | `train.py`, `evaluate.py`, `play_pygame.py`| Training loop, evaluation, plots, game interface |
-| [AhmedQoshisha](https://github.com/AhmedQoshisha)         | Report | Report write-up, Pygame visualisation |
+| [AhmedQoshisha](https://github.com/AhmedQoshisha)         | Report | Report write-up |
 
 ---
 
